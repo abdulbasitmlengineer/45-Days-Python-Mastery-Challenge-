@@ -31,7 +31,7 @@ This repository documents my coding journey, practice work, and growth as I move
 ✅ Learn Machine Learning
 ✅ Build a Strong GitHub Portfolio
 
--------------------------------------------------```text
+-------------------------------------------------
 📅 Challenge Progress
 
 Day 1   → Hello World              ✅
@@ -81,7 +81,6 @@ Day 44  →                          ✅
 Day 45  →                          ✅
 
 Challenge Completed ✅✨
-```
 
 --------------------------------------------------
 
