@@ -1,6 +1,6 @@
 <div align="center">
 
-🚀 45 Days Python Mastery Challenge
+🚀 *45 Days Python Mastery Challenge*
 
 Aspiring Machine Learning Engineer 💻
 
@@ -9,19 +9,18 @@ Building Python Projects Daily 🔥
 </div>
 
 --------------------------------------------------
-
 👨‍💻 About Me
 
 Hi, I'm Abdul Basit from Pakistan 🇵🇰
 
-I am currently learning Python step-by-step to become a future Machine Learning Engineer.
+🚀 Aspiring Machine Learning Engineer  
+🐍 Currently Learning Python Step-by-Step  
+💡 Passionate About Technology & AI  
+🔥 Building Projects Daily With Consistency  
+📚 Improving Problem Solving & Programming Skills  
+🌍 Dreaming To Study & Work Internationally  
 
-This repository contains:
-📚 Daily Python Practice
-🛠️ Mini Projects
-📈 Learning Progress
-🔥 Consistency Journey
-
+This repository documents my coding journey, practice work, and growth as I move toward becoming a future AI & ML Developer 💻
 --------------------------------------------------
 
 🎯 Goals
@@ -45,24 +44,6 @@ Day 6  → Age Calculator ✅
 Day 7  → Report Card System ✅
 
 --------------------------------------------------
-
-🛠️ Projects
-
-✨ Calculator
-✨ Age Predictor
-✨ Report Card System
-✨ String Formatter
-✨ User Input Programs
-
---------------------------------------------------
-
-🚀 Future Roadmap
-
-- NumPy
-- Pandas
-- Data Science
-- Machine Learning
-- AI Projects
 
 --------------------------------------------------
 
