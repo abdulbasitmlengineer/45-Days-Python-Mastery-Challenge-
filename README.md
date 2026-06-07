@@ -32,56 +32,55 @@ This repository documents my coding journey, practice work, and growth as I move
 ✅ Build a Strong GitHub Portfolio
 
 --------------------------------------------------
-
 📅 Challenge Progress
 
-Day 1→ Hello World      ✅
-Day 2→ Variables & Data ✅
-Day 3→ First Calculator ✅
-Day 4→ Age Predictor    ✅
-Day 5→ String Formatting✅
-Day 6→ Age Calculator   ✅
-Day 7→ ReportCard-System✅
-Day 8→✅
-Day 9→✅
-Day10→✅
-Day11→✅
-Day12→✅
-Day13→✅
-Day14→✅
-Day15→✅
-Day16→✅
-Day17→✅
-Day18→✅
-Day19→✅
-Day20→✅
-Day21→✅
-Day22→✅
-Day23→✅
-Day24→✅
-Day25→✅
-Day26→✅
-Day27→✅
-Day28→✅
-Day29→✅
-Day30→✅
-Day31→✅
-Day32→✅
-Day33→✅
-Day34→✅
-Day35→✅
-Day36→✅
-Day37→✅
-Day38→✅
-Day39→✅
-Day40→✅
-Day41→✅
-Day42→✅
-Day43→✅
-Day44→✅
-Day45→✅
-     
-   Challange Completed✅✨
+Day 1 → Hello World ✅  
+Day 2 → Variables & Data Types ✅  
+Day 3 → First Calculator ✅  
+Day 4 → Age Predictor ✅  
+Day 5 → String Formatting ✅  
+Day 6 → Age Calculator ✅  
+Day 7 → Report Card System ✅  
+Day 8 → ✅  
+Day 9 → ✅  
+Day 10 → ✅  
+Day 11 → ✅  
+Day 12 → ✅  
+Day 13 → ✅  
+Day 14 → ✅  
+Day 15 → ✅  
+Day 16 → ✅  
+Day 17 → ✅  
+Day 18 → ✅  
+Day 19 → ✅  
+Day 20 → ✅  
+Day 21 → ✅  
+Day 22 → ✅  
+Day 23 → ✅  
+Day 24 → ✅  
+Day 25 → ✅  
+Day 26 → ✅  
+Day 27 → ✅  
+Day 28 → ✅  
+Day 29 → ✅  
+Day 30 → ✅  
+Day 31 → ✅  
+Day 32 → ✅  
+Day 33 → ✅  
+Day 34 → ✅  
+Day 35 → ✅  
+Day 36 → ✅  
+Day 37 → ✅  
+Day 38 → ✅  
+Day 39 → ✅  
+Day 40 → ✅  
+Day 41 → ✅  
+Day 42 → ✅  
+Day 43 → ✅  
+Day 44 → ✅  
+Day 45 → ✅  
+
+Challenge Completed ✅✨
 
 --------------------------------------------------
 
