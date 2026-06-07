@@ -35,13 +35,53 @@ This repository documents my coding journey, practice work, and growth as I move
 
 📅 Challenge Progress
 
-Day 1  → Hello World ✅
-Day 2  → Variables & Data Types ✅
-Day 3  → First Calculator ✅
-Day 4  → Age Predictor ✅
-Day 5  → String Formatting ✅
-Day 6  → Age Calculator ✅
-Day 7  → Report Card System ✅
+Day 1→ Hello World      ✅
+Day 2→ Variables & Data ✅
+Day 3→ First Calculator ✅
+Day 4→ Age Predictor    ✅
+Day 5→ String Formatting✅
+Day 6→ Age Calculator   ✅
+Day 7→ ReportCard-System✅
+Day 8→✅
+Day 9→✅
+Day10→✅
+Day11→✅
+Day12→✅
+Day13→✅
+Day14→✅
+Day15→✅
+Day16→✅
+Day17→✅
+Day18→✅
+Day19→✅
+Day20→✅
+Day21→✅
+Day22→✅
+Day23→✅
+Day24→✅
+Day25→✅
+Day26→✅
+Day27→✅
+Day28→✅
+Day29→✅
+Day30→✅
+Day31→✅
+Day32→✅
+Day33→✅
+Day34→✅
+Day35→✅
+Day36→✅
+Day37→✅
+Day38→✅
+Day39→✅
+Day40→✅
+Day41→✅
+Day42→✅
+Day43→✅
+Day44→✅
+Day45→✅
+     
+   Challange Completed✅✨
 
 --------------------------------------------------
 
