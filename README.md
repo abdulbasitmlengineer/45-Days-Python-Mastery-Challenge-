@@ -38,4 +38,4 @@ This repository documents my coding journey, practice work, and growth as I move
 
 💡 Learning One Day At A Time
 
-⭐ Consistency > Perfection ⭐
+⭐⭐ Consistency > Perfection ⭐⭐
