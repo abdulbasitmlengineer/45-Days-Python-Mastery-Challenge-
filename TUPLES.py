@@ -1,0 +1,5 @@
+print("========TUPLES PRACTICE========")
+
+FAVORITEFOOD = ("BIRYANI", "KORMA", "CHAYE")
+
+print(FAVORITEFOOD[1])
